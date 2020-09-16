@@ -32,6 +32,7 @@ ul {
   text-align: center;
   font-family: 'Roboto Slab', serif;
   background-color: #959595;
+  max-width: 600px;
 }
 
 a {
@@ -47,4 +48,5 @@ a:hover {
   background-color: white;
   padding: 10px, 10px, 10px, 10px;
   margin: auto;
+  max-width: 600px;
 }
