@@ -33,10 +33,7 @@ ul {
   list-style-type: none;
   text-align: center;
   font-family: 'Roboto Slab', serif;
-}
-
-li {
-  border: black;
+  background-color: #959595;
 }
 
 a {
@@ -45,7 +42,7 @@ a {
 }
 
 a:hover {
-  color: #959595;
+  color: #a5d4cd;
 }
 
 #joke {
