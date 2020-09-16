@@ -31,7 +31,7 @@ ul {
   list-style-type: none;
   text-align: center;
   font-family: 'Roboto Slab', serif;
-  background-color: #959595;
+  background-color: black;
   max-width: 600px;
   margin: auto;
 }
@@ -42,7 +42,7 @@ a {
 }
 
 a:hover {
-  color: #a5d4cd;
+  color: #959595;
 }
 
 #joke {
