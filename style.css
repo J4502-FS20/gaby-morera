@@ -11,18 +11,18 @@ img {
 }
 
 p {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto', 'Arial', sans-serif;
   font-size: 20px;
 }
 
 h1 {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Josefin Sans','Helvetica', sans-serif;
   color: white;
   font-size: 50px;
 }
 
 h2 {
-font-family: 'Roboto Slab', serif;
+font-family: 'Roboto Slab', 'Georgia', serif;
 color: #959595;
 font-size: 40px;
 }
@@ -30,7 +30,7 @@ font-size: 40px;
 ul {
   list-style-type: none;
   text-align: center;
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto Slab', 'Courier', serif;
   background-color: black;
   max-width: 600px;
   margin: auto;
