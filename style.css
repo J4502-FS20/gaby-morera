@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: #a5d4cd;
   text-align: center;
   margin: auto;
 }
@@ -19,9 +19,8 @@ p {
 
 h1 {
   font-family: 'Josefin Sans', sans-serif;
-  color: #a5d4cd;
+  color: white;
   font-size: 40px;
-
 }
 
 h2 {
@@ -38,7 +37,7 @@ ul {
 
 a {
   text-decoration: none;
-  color: #a5d4cd;
+  color: white;
 }
 
 a:hover {
@@ -46,7 +45,7 @@ a:hover {
 }
 
 #joke {
-  background-color: #a5d4cd;
+  background-color: white;
   padding: 10px, 10px, 10px, 10px;
   margin: auto;
 }
