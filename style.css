@@ -32,13 +32,16 @@ ul {
   text-align: center;
   font-family: 'Roboto Slab', 'Courier', serif;
   background-color: black;
-  max-width: 600px;
+  max-width: 70%;
   margin: auto;
+  display: flex;
+  flex-flow: row wrap;
 }
 
 a {
   text-decoration: none;
   color: white;
+  margin: auto;
 }
 
 a:hover {
@@ -50,4 +53,12 @@ a:hover {
   padding: 10px 10px 10px 10px;
   margin: auto;
   max-width: 600px;
+}
+
+#navigation {
+  display: flex;
+  flex-flow: row wrap;
+}
+li {
+  padding: 10px;
 }
